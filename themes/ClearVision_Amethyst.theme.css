@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #da27e6;
-	--hover-color: #a71eb3;
+	--main-color: #e7dce8;
+	--hover-color: #e7dce8;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https:https://user-images.githubusercontent.com/34322723/34651323-feb04672-f3ce-11e7-9155-3820d6822a96.jpg//zerthox.github.io/ClearVision/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
